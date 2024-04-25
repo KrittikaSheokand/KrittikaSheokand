@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krittika! 
 - 👀 I’m interested in all things data and I’m currently studying Business Analytics at UC Davis 
-- 🌱 I'm working with Brookfield Properties on practicum project where we are generating financial variance comments using LLMs
-- 💞️ I’m working with Professor Mike and Professor Ashwin on using Kalman Filter to guide advertising by identifying shopping patterns
+- 🌱 I'm working with Brookfield Properties on practicum project where we are generating financial variance comments using latest advancements in GenerativeAI
+- 💞️ I’m working with Professor Mike and Professor Ashwin on using Kalman Filter to guide advertising efforts by identifying shopping patterns
 - 📫 Reach me at krittikasheokand2@gmail.com or https://www.linkedin.com/in/krittika-singh/
 - 😄 Pronouns: She/Her
 
